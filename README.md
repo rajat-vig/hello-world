@@ -1,2 +1,2 @@
 # hello-world
-QA Week 2 Lab
+Lab 2 Hands On
